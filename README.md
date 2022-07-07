@@ -24,7 +24,7 @@ It seems MQTT publish can not be called too frequently, crashes on
 2 sec interval, seems fine on 5 sec. Alternative is to 
 gather more readings, and publish all at once
 
-
+clion
 ## ESP8266 toolchain SDK installation
 
 For clarity, toolchain refers to the `xtensa-lx106-elf-XXX` binaries used to compile your ESP8266 projects with, and 

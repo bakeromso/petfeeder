@@ -18,3 +18,4 @@ build/
 cmake-build-debug/
 .idea/
 .git_old
+/cmake-build-debug-xtensa-lx106-elf/
